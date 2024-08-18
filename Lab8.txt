@@ -1,0 +1,27 @@
+Use Cursor For the following Problems 
+
+Problem 1: Calculate Total Salary for Each Department
+Description: Calculate the total salary for each department and display the department name along with the total salary
+
+Problem 2: Update Employee Salaries Based on Department
+Description: Update employee salaries by increasing them by a certain percentage for a specific department.
+
+Problem 3: Calculate Average Project Hours per Employee
+Description: Calculate the average number of hours each employee has worked on projects, and display their names along with the calculated average hours
+
+Problem 4:  in employee table Check if Gender='M' add 'Mr Befor Employee name    
+else if Gender='F' add Mrs Befor Employee name  then display all names  
+use cursor for update
+
+Problem 5: Solve student task at day8 demo
+
+Window Function
+1.	Identifying the Top Topics by the Number of Courses:
+•	Use the "Topic" and "Course" tables to count the number of courses available for each topic.
+•	Rank the topics based on the count of courses and identify the most popular topics with the highest number of courses.
+
+2.	Finding Students with the Highest Overall Grades:
+•	Use the "Stud_Course" table to calculate the total grades for each student across all courses.
+•	Rank the students based on their total grades and identify the students with the highest overall grades.
+
+
